@@ -1,0 +1,8 @@
+Compat 0.2.1
+Distributions 0.1.0
+DataFrames 1.2.3
+DataStructures 0.2,3
+StatsBase 0.13.2
+JSON 1.1.0
+Reexport 9.1.1
+BinDeps 7.1.3
